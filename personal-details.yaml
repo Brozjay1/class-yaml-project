@@ -1,0 +1,26 @@
+person:
+  name: Abayomi Afolabi
+  age:  20
+  contact:
+    email: afolabiabyomijohn@gmail.com
+    phone: +2348140656230
+    linkedin-id: https://www.linkedin.com/abayomi-afolabi-506298111 
+    github-id: Brozjay1
+  education:
+    degree: B.eng
+    Professional-skill: DevOps-cloud-computing engineer 
+  addresses:
+    states:
+      state of resident: Ibadan,Oyo
+      state of origin: Ado,Ekiti
+  hobbies:
+    - traveling
+    - football
+    - coding
+  favorite_foods:
+    - name: Amala-gbegiri-ewwdu
+      type: yoruba
+    - name: ohaa-soup
+      type: igbo
+    - name: shawarma
+      type: international
